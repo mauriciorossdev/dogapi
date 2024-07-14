@@ -1,3 +1,4 @@
+// @ts-expect-error-error
 import React from 'react';
 import { render } from '@testing-library/react';
 import ImageGallery from './ImageGallery';

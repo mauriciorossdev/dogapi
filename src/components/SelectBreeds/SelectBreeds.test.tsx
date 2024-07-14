@@ -1,3 +1,4 @@
+// @ts-expect-error-error
 import React from 'react';
 import { render, fireEvent } from '@testing-library/react';
 import SelectBreeds from './SelectBreeds';
