@@ -61,7 +61,7 @@ Welcome to **DogCeo React App**! This is a React application built using the [do
 1. Clone the repository:
 
    ```
-   git clone https://github.com/tu-usuario/dogceo-react-app.git
+   git clone https://github.com/mauriciorossdev/dogapi
    cd dogceo-react-app
    ```
 
